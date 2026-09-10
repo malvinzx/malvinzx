@@ -113,7 +113,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm currently learning different areas of development, from frontend and backend<br>to databases, programming languages, and development tools.<br>I enjoy learning by building real projects and experimenting with different technologies along the way.</p>
+<p data-importer="text" align="left">I'm currently learning different areas of development, from frontend and backend<br>to databases, programming languages, and development tools.I enjoy learning by building real projects and experimenting with different technologies along the way.</p>
 
 ###
 
