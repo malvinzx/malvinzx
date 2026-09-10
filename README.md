@@ -91,7 +91,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">🔥   My Stats :</h3>
+<h3 data-importer="text" align="center">🔥   My Stats</h3>
 
 ###
 
@@ -101,14 +101,34 @@
 
 ###
 
-<h3 data-importer="text" align="center">Space :</h3>
+<br clear="both">
+
+<h3 data-importer="text" align="center">📚 Learning</h3>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malvin/Malvin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malvin/Malvin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Malvin/Malvin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<br clear="both">
+
+<img data-importer="image" align="left" height="200" src="https://cdn.phototourl.com/free/2026-09-10-556d8c1c-22c7-40a5-ae06-80104adfc526.jpg"  />
+
+###
+
+<p data-importer="text" align="left">I'm currently learning different areas of development, from frontend and backend<br>to databases, programming languages, and development tools.<br><br>I enjoy learning by building real projects and experimenting with different<br>technologies along the</p>
+
+###
+
+<br clear="both">
+
+<h3 data-importer="text" align="center">Quotes</h3>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://cdn.phototourl.com/free/2026-09-10-b111f134-bd3f-4777-af48-10e38fbecaae.jpg"  />
+
+###
+
+<p data-importer="text" align="left">I don't know if you'll ever return. I just know a part of me is still waiting.</p>
 
 ###
