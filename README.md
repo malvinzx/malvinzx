@@ -109,11 +109,11 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="200" src="https://cdn.phototourl.com/free/2026-09-10-556d8c1c-22c7-40a5-ae06-80104adfc526.jpg"  />
+<img data-importer="image" align="left" height="150" src="https://cdn.phototourl.com/free/2026-09-10-556d8c1c-22c7-40a5-ae06-80104adfc526.jpg"  />
 
 ###
 
-<p data-importer="text" align="left">I'm currently learning different areas of development, from frontend and backend<br>to databases, programming languages, and development tools.<br>I enjoy learning by building real projects and experimenting with different<br>technologies along the</p>
+<p data-importer="text" align="left">I'm currently learning different areas of development, from frontend and backend<br>to databases, programming languages, and development tools.<br>I enjoy learning by building real projects and experimenting with different<br>technologies along the way.</p>
 
 ###
 
@@ -125,7 +125,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="250" src="https://cdn.phototourl.com/free/2026-09-10-b111f134-bd3f-4777-af48-10e38fbecaae.jpg"  />
+<img data-importer="image" align="right" height="150" src="https://cdn.phototourl.com/free/2026-09-10-b111f134-bd3f-4777-af48-10e38fbecaae.jpg"  />
 
 ###
 
